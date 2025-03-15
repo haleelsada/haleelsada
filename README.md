@@ -1,7 +1,3 @@
-### Hi there
 ## I'm Haleel Sada
 
-I like working with ML, deep learning and python
-
-I love watching movies
-
+I do ML, deep learning, some backend, python and some matlab
